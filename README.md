@@ -1,7 +1,7 @@
 # Deepfake-Scanner-API
 
 ## Installation
-Make sure you have a nvidia gpu with cuda support. Scanner can run both on Windows and Linux.
+Make sure you have a nvidia gpu with cuda support.
 
 ### On Linux
 + Clone the repo or download it as a zip and extract to a directory.
