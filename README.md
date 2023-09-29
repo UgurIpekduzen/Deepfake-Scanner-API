@@ -1,5 +1,5 @@
 # Deepfake-Scanner-API
-
+![df_scan_demo](./df-scan-fastapi-v1.0.0.gif)
 ## Installation
 Make sure you have a nvidia gpu with cuda support.
 
